@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+## Hi, im SlimeBluKing :D
+## Readme coming soon...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlimeBluKing)
 
