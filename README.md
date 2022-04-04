@@ -28,9 +28,9 @@
 
 ## GitHub Stats
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SlimeBluKing)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlimeBluKing)
-
-
 <!--
 **SlimeBluKing/SlimeBluKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
