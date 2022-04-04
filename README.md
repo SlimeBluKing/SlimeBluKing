@@ -1,6 +1,5 @@
 
-# Hi there, I'm [**SlimeBluKing**](https://slimebluking.github.io) 👋 <img align="right" src="https://avatars.githubusercontent.com/u/47362923?v=4" width="200" />
-
+# Hi there, I'm [**SlimeBluKing**](https://slimebluking.github.io) 👋
 ## I'm a nerd XD, i like program things and delete my life on League of Legends :P
 - 🍃 I'm a Minecraft server owner. [ChillGames Network](https://www.minecraft-italia.it/server/chillgamesnetwork)
 - 🤖 I like to program Discord bots
