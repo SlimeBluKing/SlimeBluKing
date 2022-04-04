@@ -1,4 +1,5 @@
-# Hi there, I'm [**SlimeBluKing**](https://slimebluking.github.io) 👋
+
+# Hi there, I'm [**SlimeBluKing**](https://slimebluking.github.io) 👋 <img align="right" src="https://avatars.githubusercontent.com/u/47362923?v=4" width="200" />
 
 ## I'm a nerd XD, i like program things and delete my life on League of Legends :P
 - 🍃 I'm a Minecraft server owner. [ChillGames Network](https://www.minecraft-italia.it/server/chillgamesnetwork)
@@ -31,6 +32,8 @@
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SlimeBluKing)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlimeBluKing)
+
+
 <!--
 **SlimeBluKing/SlimeBluKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
