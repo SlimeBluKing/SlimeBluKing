@@ -3,7 +3,7 @@
 ## I'm a nerd XD, I like program things and delete my life on League of Legends :P
 - ⚡ I'm a Minecraft server owner. [EasyMC Network](https://www.minecraft-italia.net/lista/server/easymc)
 - 🤖 I like to program Discord bots
-- 💫 I'm still learn things
+- 💫 I'm still learning things
 - 🤝 I'm looking to collaborate with other developers
 - 😪 I'm too lazy ヾ(•ω•`)o
 
