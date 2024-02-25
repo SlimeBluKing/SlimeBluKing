@@ -1,6 +1,6 @@
 
 # Hi there, I'm [**SlimeBluKing**](https://slimebluking.github.io) 👋
-## I'm a nerd XD, I like program things and delete my life on League of Legends :P
+## I'm a masochist... I torture myself with rhythm games and League of Legends... yep...
 - ⚡ I'm a Minecraft server owner. [EasyMC Network](https://www.minecraft-italia.net/lista/server/easymc)
 - 🤖 I like to program Discord bots
 - 💫 I'm still learning things
