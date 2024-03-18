@@ -23,12 +23,3 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 
-<br />
-<br />
-
-## GitHub Stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SlimeBluKing)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlimeBluKing)
-
