@@ -2,7 +2,7 @@
 # Hi there, I'm [**SlimeBluKing**](https://slimebluking.github.io) 👋
 ## I'm a masochist... I torture myself with rhythm games and League of Legends... yep...
 - ⚡ I'm a Minecraft server owner. [EasyMC Network](https://www.minecraft-italia.net/lista/server/easymc)
-- 🤖 I like to program Discord bots
+- 🧑‍💻 I enjoy developing anything that comes to mind.
 - 💫 I'm still learning things
 - 🤝 I'm looking to collaborate with other developers
 - 😪 I'm too lazy ヾ(•ω•`)o
